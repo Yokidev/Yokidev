@@ -4,13 +4,14 @@ My name is Jose, I'm a Full Stack Web Developer.
 
 Welcome to my profile, where I upload the projects I'm creating to improve and gain experience in the development world.
 
-## ⚙ Tecnologias
+## ⚙ Technologies
 
-| Lenguages | Front-End | Back-End |
+| **Languages** | **Front-End** | **Back-End** |
 | --- | --- | --- |
 | Java | Angular | Spring |
 | JavaScript | HTML |  
 | Python | CSS |
+
 <!--
 **Yokidev/Yokidev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
