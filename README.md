@@ -2,7 +2,7 @@
 
 My name is Jose, I'm a Full Stack Web Developer.
 
-Welcome to my profile, where I upload the projects I'm creating to improve and gain experience in the development world.
+Welcome to my profile, where I upload the projects I'm developing to improve and gain experience.
 
 ## ⚙ Technologies
 
