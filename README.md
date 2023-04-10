@@ -8,7 +8,7 @@ Welcome to my profile, where I upload the projects I'm developing to improve and
 
 | **Programing languages** | **Front-End** | **Back-End** |
 | --- | --- | --- |
-| [![Java]([https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)] | Angular | Spring |
+| [https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white] | Angular | Spring |
 | JavaScript | HTML |  
 | Python | CSS |
 
