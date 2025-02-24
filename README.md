@@ -9,7 +9,7 @@ Welcome to my profile, where I upload the projects I'm developing to improve and
 | **Programing languages** | **Front-End** | **Back-End** |
 | --- | --- | --- |
 | <!--Java--> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"> | <!--Angular--> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"> | <!--Spring--> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> |
-| <!--JavaScript--> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | <!--React--> <img src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"> |  
+| <!--JavaScript--> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> | <!--React--> <img src="https://shields.io/badge/react-blue?logo=react&style=for-the-badge&logoColor=white"> |  
 | <!--Python--> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"> |  
 
 | **DDBB** | **Dev-Tools** |
